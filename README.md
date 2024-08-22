@@ -9,9 +9,11 @@ Key Annotations and Assertions
 Annotations: @Test, @ParameterizedTest, @ValueSource, @CsvSource, @Disabled
 Assertions: assertEquals(), assertNotEquals(), assertTrue(), assertFalse(), assertNull(), assertNotNull(), assertThrows().
 
-Project Dependencies
-Spring Workspace
-JUnit Testing Software
+Project Dependencies:
+
+1.Spring Workspace
+
+2.JUnit Testing Software
 
 Give me a thumbs up if you like my work!
 
